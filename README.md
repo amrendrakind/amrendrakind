@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrendrakind" alt="AmrendraK" /></a> </p>
 
-- 🔭 I’m currently working on **Slack-clone**
+- 🔭 I’m currently working on **Favyt Store: Online platform for Ecommerce** www.favyt.com
 
-- 🌱 I’m currently learning **Express.js, MongoDB, Node.JS**
+- 🌱 I’m currently learning **React JS,Express.js, MongoDB, Node.JS, DSA**
 
 - 📫 How to reach me **amrendrak.ind@gmail.com**
 
