@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Favyt Store: Online platform for Ecommerce** www.favyt.com
 
-- 🌱 I’m currently learning **React JS,Express.js, MongoDB, Node.JS, DSA**
+- 🌱 I’m currently learning **React JS, Node.JS, Express.js, MongoDB, DSA**
 
-- 📫 How to reach me **amrendrak.ind@gmail.com**
+- 📫 How to reach me amrendrak.ind@gmail.com or visit http://amrendrakind.github.io/
 
 - ⚡ Fun fact **Math.max() smaller than Math.min()**
 
