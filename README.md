@@ -31,6 +31,22 @@ Here are some ideas to get you started:
 
 
 ## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/NodeJs-339933.svg?logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C8EBB.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2C8EBB.svg?logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+
+<!--
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Node%20JS-informational?style=flat&logo=node&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Express%20JS-informational?style=flat&logo=express&logoColor=white&color=2bbc8a)
@@ -41,11 +57,23 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=aws&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+-->
+## Tech Skills
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrendrakind&show_icons=true&locale=en&layout=compact" alt="AmrendraK" /></p>
+## Follow me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amrendrakind&show_icons=true&locale=en" alt="AmrendraK" /></p>
+[![Twitter: amrendrak_](https://img.shields.io/twitter/follow/amrendrak_?style=social)](https://twitter.com/amrendrak_)
+
+[![Linkedin: amrendraakumar](https://img.shields.io/badge/-AmrendraK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amrendraakumar/)](https://www.linkedin.com/in/amrendraakumar/)
+
+[![GitHub:amrendrakind](https://img.shields.io/github/followers/amrendrakind?label=follow&style=social)](https://github.com/amrendrakind)
+
+## GitHub Stats and Most Used Languages
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=amrendrakind&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrendrakind&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/amrendrakind/github-readme-stats)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrakind&" alt="AmrendraK" /></p>
 
