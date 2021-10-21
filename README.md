@@ -69,14 +69,18 @@ Here are some ideas to get you started:
 
 [![GitHub:amrendrakind](https://img.shields.io/github/followers/amrendrakind?label=follow&style=social)](https://github.com/amrendrakind)
 
-## GitHub Stats and Most Used Languages
+## &#x1f4c8; GitHub Stats Most Used Languages
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amrendrakind&show_icons=true&count_private=true&theme=radical)
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrakind&theme=radical" alt="AmrendraK" />
+
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrendrakind&show_icons=true&locale=en&layout=compact&theme=radical" alt="AmrendraK" /></p>
+
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=amrendrakind&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amrendrakind&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/amrendrakind/github-readme-stats)
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrakind&" alt="AmrendraK" /></p>
-
+-->
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/amrendrak_
