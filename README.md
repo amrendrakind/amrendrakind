@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 ## &#x1f4c8; GitHub Stats Most Used Languages
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amrendrakind&show_icons=true&count_private=true&theme=radical)
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrakind&theme=radical" alt="AmrendraK" />
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrakind&theme=radical" alt="AmrendraK" /> </p>
 
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amrendrakind&show_icons=true&locale=en&layout=compact&theme=radical" alt="AmrendraK" /></p>
 
