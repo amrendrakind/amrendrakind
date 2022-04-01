@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrendrakind" alt="AmrendraK" /></a> </p>
 
-- 🔭 I’m currently working on **Favyt Store: Online platform for E-Commerce** www.favyt.com
+- 🔭 I’m currently working on project **Favyt Store: Online platform for E-Commerce** www.favyt.com
 
-- 🌱 I’m currently learning **React JS, Node.JS, Express.js, MongoDB, DSA**
+- 🌱 I’m currently learning **JS** **React JS, Node.JS, Express.js, MongoDB, DSA**
 
 - You can find me on http://amrendrakind.github.io/
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C8EBB.svg?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-c14438.svg?logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript) -->
 ![NPM](https://img.shields.io/badge/NPM-CB3837.svg?logo=npm)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
