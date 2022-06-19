@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **JS**, **React JS, Node.JS, Express.js, MongoDB, DSA**
 
-- You can find me on http://amrendrakind.github.io/
+- You can find me on https://amrendrakind.github.io/MyPortfolio_MV/
 
 
 ## 🔧 Technologies & Tools
