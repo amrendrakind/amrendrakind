@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on side project **Favyt Store: Online platform for E-Commerce** www.favyt.com
 
-- 🌱 I’m currently learning **JS**, **React JS, Node.JS, Express.js, MongoDB, DSA**
+- 🌱 I’m currently learning **Ruby, React JS, Node.JS, Express.js, MongoDB, DSA**
 
 - You can find my curated project on https://amrendrakind.github.io/MyPortfolio_MV/
 
