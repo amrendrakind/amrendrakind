@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 
 [![GitHub:amrendrakind](https://img.shields.io/github/followers/amrendrakind?label=follow&style=social)](https://github.com/amrendrakind)
 
+[![HackerRank:amrendrak_ind](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amrendrak_ind)
 
 
 ## &#x1f4c8; GitHub Stats Most Used Languages
