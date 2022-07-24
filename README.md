@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Ruby, Rails, React JS, Node.JS, Express.js, DSA**
 
-- You can find my curated project on https://amrendrakind.github.io/MyPortfolio_MV/
+- You can find my curated projects on https://amrendrakind.github.io/MyPortfolio_MV/
 
 
 ## 🔧 Technologies & Tools
