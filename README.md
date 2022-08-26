@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - You can find my curated projects on https://amrendrakind.github.io/MyPortfolio_MV/
 
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
