@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 [![HackerRank:amrendrak_ind](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/amrendrak_ind)
 
 
-## &#x1f4c8; GitHub Stats Most Used Languages
+## &#x1f4c8; GitHub Stats Most Used Languages!
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amrendrakind&show_icons=true&count_private=true&theme=radical)
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amrendrakind&theme=radical" alt="AmrendraK" /> </p>
