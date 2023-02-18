@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 ## Tech Skills
 -->
 
-## Connect with me! 
+## Connect with me!! 
 
 [![Twitter: amrendrak_](https://img.shields.io/twitter/follow/amrendrak_?style=social)](https://twitter.com/amrendrak_)
 
