@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrendrakind" alt="AmrendraK" /></a> </p>
 
-- 🔭 I’m currently working on side project **Favyt Store: Online platform for E-Commerce** www.favyt.com
+- 🔭 I’m currently working on side project **Favyt Store: Online platform for E-Commerce** www.favyt.com and www.favyt.in
 
 - 🌱 I’m currently learning **Ruby, Rails, Node.JS, Express.js, DSA**
 
