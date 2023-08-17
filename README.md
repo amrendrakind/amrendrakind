@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Amrendra Kumar</h1>  
-<h3 align="center">A passionate RoR Full Stack Developer.</h3>
+<h3 align="center">A passionate RoR with React Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrendrakind&label=Profile%20views&color=0e75b6&style=flat" alt="AmrendraK" /> </p>
 
