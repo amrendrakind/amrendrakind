@@ -23,11 +23,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrendrakind" alt="AmrendraK" /></a> </p>
 
-- 🔭 I’m currently working on side project **Favyt Store: Online platform for E-Commerce** [www.favyt.in](http://favyt.in/) and www.favyt.com
+- 🔭 I’m currently working on side project **Favyt Store: Online platform for E-Commerce**
+  - [www.favyt.in](http://favyt.in/) developed in React, Bootstrap, Rails, and Postgres and
+  - www.favyt.com developed in React, Bootstrap, Rails, and MongoDB Atlas
 
-- 🌱 I’m currently learning **Ruby, Rails, Node.JS, Express.js, DSA**
+- 🌱 I’m currently learning **Ruby, Rails, Node JS, Express JS, MongoDB Atlas**
 
-- You can find my curated projects on https://amrendrakind.github.io/MyPortfolio_MV/
+- You can find my curated projects at https://amrendrakind.github.io/MyPortfolio_MV/
 
 
 ## 🔧 Technologies & Tools
