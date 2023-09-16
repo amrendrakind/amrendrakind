@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrendrakind" alt="AmrendraK" /></a> </p>
 
-- 🔭 I’m currently working on side project **Favyt Store: Online platform for E-Commerce**
+- 🔭 I’m currently working on project **Favyt Store: Online platform for E-Commerce**
   - [www.favyt.in](http://favyt.in/) developed in React, Bootstrap, Rails, and Postgres and
   - www.favyt.com developed in React, Bootstrap, Rails, and MongoDB Atlas
 
