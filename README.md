@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   - **Business Exchange: Online platform for Business Exchange**
      - www.favyt.com developed in React, Bootstrap, Rails, and MongoDB Atlas
 
-- 🌱 I’m currently learning **Ruby, Rails, Node JS, Express JS, MongoDB Atlas**
+- 🌱 I’m currently learning **Ruby, Rails, Node JS, Express JS, MongoDB Atlas, Python**
 
 - You can find my curated projects at https://amrendrakind.github.io/MyPortfolio_MV/
 
