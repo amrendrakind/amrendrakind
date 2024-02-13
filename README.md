@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on the following projects
   - **Favyt Store: Online platform for E-Commerce**
-     - [www.favyt.in](http://favyt.in/) developed in React, Bootstrap, Rails, and Postgres and
+     - [www.favyt.in](http://favyt.in/) being developed in React, Bootstrap, Rails, and Postgres and
 
   - **Business Exchange: Online platform for Business Exchange**
-     - www.favyt.com developed in React, Bootstrap, Rails, and MongoDB Atlas
+     - www.favyt.com being developed in React, Bootstrap, Rails, and MongoDB Atlas
 
 - 🌱 I’m currently learning **Ruby, Rails, Node JS, Express JS, MongoDB Atlas, Python**
 
