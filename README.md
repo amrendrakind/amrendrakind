@@ -28,7 +28,7 @@ Here are some ideas to get you started:
      - [www.favyt.in](http://favyt.in/) being developed in React, Bootstrap, Rails, and Postgres and
 
   - **Business Exchange: Online platform for Business Exchange**
-     - www.favyt.com being developed in React, Bootstrap, Rails, and MongoDB Atlas
+     - [Business Xchange](http://bx.favyt.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
 
 - 🌱 I’m currently learning **Ruby, Rails, Node JS, Express JS, MongoDB Atlas, Python**
 
