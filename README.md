@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 
   - **Business Exchange: Online platform for Business Exchange**
      - [Business Xchange](http://bx.favyt.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
+  
+  - **Algo Trader: Online platform for Stock Market Education**
+     - [Algo Trader](http://algotrader.favyt.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
 
 - 🌱 I’m currently learning **Ruby, Rails, Node JS, Express JS, MongoDB Atlas, Python**
 
