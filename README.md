@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Amrendra Kumar</h1>  
-<h3 align="center">A passionate RoR with React Full Stack Developer.</h3>
+<h3 align="center">A passionate RoR | React Full Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrendrakind&label=Profile%20views&color=0e75b6&style=flat" alt="AmrendraK" /> </p>
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   - **Algo Trader: Online platform for Stock Market Education**
      - [Algo Trader](http://algotrader.favyt.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
 
-- 🌱 I’m currently learning **Ruby, Rails, Node JS, Express JS, MongoDB Atlas, Python**
+- 🌱 I’m currently learning **React, Rails, Node JS, Express JS, MongoDB Atlas, Python**
 
 - You can find my curated projects at https://amrendrakind.github.io/MyPortfolio_MV/
 
