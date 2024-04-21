@@ -26,16 +26,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the following projects
   
   - **Favyt Store: Online platform for E-Commerce**
-     - [Favyt Store](http://favyt.in/) being developed in React, Bootstrap, Rails, and Postgres
+     - [Favyt Store](https://favyt-tech.onrender.com) being developed in React, Bootstrap, Rails, and Postgres
 
   - **Business Exchange: Online platform for Business Exchange**
-     - [Business Xchange](http://bx.favyt.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
+     - [Business Xchange](https://business-xchange.onrender.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
 
   - **Health Exchange: Online platform for Health Exchange**
-     - [Health Xchange](http://hx.favyt.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
+     - [Health Xchange](https://health-exchange.onrender.com) being developed in React, Bootstrap, Rails, and MongoDB Atlas
   
   - **Algo Trader: Online platform for Stock Market Education**
-     - [Algo Trader](http://algotrader.favyt.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
+     - [Algo Trader](https://algotrader-react.onrender.com) being developed in React, Bootstrap, Rails, and MongoDB Atlas
 
 - 🌱 I’m currently learning **React | Rails | Node JS | Express JS | MongoDB Atlas | Python**
 
