@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on the following projects
   
   - **Favyt Store: Online platform for E-Commerce**
-     - [Favyt Store](https://favyt-tech.onrender.com) being developed in React, Bootstrap, Rails, and Postgres
+     - [Favyt Store](https://favyt.onrender.com) being developed in React, Bootstrap, Rails, and Postgres
 
   - **Business Exchange: Online platform for Business Exchange**
      - [Business Xchange](https://business-xchange.onrender.com/) being developed in React, Bootstrap, Rails, and MongoDB Atlas
