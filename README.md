@@ -37,7 +37,7 @@ Here are some ideas to get you started:
   - **Algo Trader: Online platform for Stock Market Education**
      - [Algo Trader](https://algotrader-react.onrender.com) being developed in React, Bootstrap, Rails, and MongoDB Atlas
 
-- 🌱 I’m currently learning **React | Rails | Node JS | Express JS | MongoDB Atlas | Python**
+- 🌱 I’m currently learning **Python | React | Rails | Node JS | Express JS | MongoDB Atlas**
 
 - You can find my curated projects at https://amrendrakind.github.io/MyPortfolio_MV/
 
