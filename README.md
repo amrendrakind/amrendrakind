@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amrendrakind" alt="AmrendraK" /></a> </p>
 
 - 🔭 I’m currently working on the following projects
-  
+  - **VenueExchange: Event Avenues**
+     - [VenueExchange](https://www.venueexchange.in/) being developed in Python, React, Tailwind, and Postgres
+
   - **Favyt Store: Online platform for E-Commerce**
      - [Favyt Store](https://favyt.onrender.com) being developed in React, Bootstrap, Rails, and Postgres
 
@@ -37,7 +39,7 @@ Here are some ideas to get you started:
   - **Algo Trader: Online platform for Stock Market Education**
      - [Algo Trader](https://algotrader-react.onrender.com) being developed in React, Bootstrap, Rails, and MongoDB Atlas
 
-- 🌱 I’m currently learning **Data Science | Python | React | Rails | Node JS | Express JS | MongoDB Atlas**
+- 🌱 I’m currently learning **Data Science | Python | React | Rails | Tailwind**
 
 - You can find my curated projects at https://amrendrakind.github.io/MyPortfolio_MV/
 
